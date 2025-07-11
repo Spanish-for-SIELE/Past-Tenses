@@ -215,3 +215,51 @@
     <tr><td>ellos/ellas/ustedes</td><td>exigieron</td><td>exigían</td></tr>
   </table>
 </details>
+
+<details>
+  <summary>Fomentar (to promote / encourage)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>fomenté</td><td>fomentaba</td></tr>
+    <tr><td>tú</td><td>fomentaste</td><td>fomentabas</td></tr>
+    <tr><td>él/ella/usted</td><td>fomentó</td><td>fomentaba</td></tr>
+    <tr><td>nosotros/as</td><td>fomentamos</td><td>fomentábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>fomentaron</td><td>fomentaban</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Impulsar (to drive / push forward)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>impulsé</td><td>impulsaba</td></tr>
+    <tr><td>tú</td><td>impulsaste</td><td>impulsabas</td></tr>
+    <tr><td>él/ella/usted</td><td>impulsó</td><td>impulsaba</td></tr>
+    <tr><td>nosotros/as</td><td>impulsamos</td><td>impulsábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>impulsaron</td><td>impulsaban</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Influir (to influence)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>influí</td><td>influía</td></tr>
+    <tr><td>tú</td><td>influiste</td><td>influías</td></tr>
+    <tr><td>él/ella/usted</td><td>influyó</td><td>influía</td></tr>
+    <tr><td>nosotros/as</td><td>influimos</td><td>influíamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>influyeron</td><td>influían</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Interpretar (to interpret / understand)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>interpreté</td><td>interpretaba</td></tr>
+    <tr><td>tú</td><td>interpretaste</td><td>interpretabas</td></tr>
+    <tr><td>él/ella/usted</td><td>interpretó</td><td>interpretaba</td></tr>
+    <tr><td>nosotros/as</td><td>interpretamos</td><td>interpretábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>interpretaron</td><td>interpretaban</td></tr>
+  </table>
+</details>
