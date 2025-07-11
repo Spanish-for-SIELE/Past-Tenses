@@ -263,3 +263,123 @@
     <tr><td>ellos/ellas/ustedes</td><td>interpretaron</td><td>interpretaban</td></tr>
   </table>
 </details>
+
+<details>
+  <summary>Justificar (to justify)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>justifiqué</td><td>justificaba</td></tr>
+    <tr><td>tú</td><td>justificaste</td><td>justificabas</td></tr>
+    <tr><td>él/ella/usted</td><td>justificó</td><td>justificaba</td></tr>
+    <tr><td>nosotros/as</td><td>justificamos</td><td>justificábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>justificaron</td><td>justificaban</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Negar (to deny)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>negué</td><td>negaba</td></tr>
+    <tr><td>tú</td><td>negaste</td><td>negabas</td></tr>
+    <tr><td>él/ella/usted</td><td>negó</td><td>negaba</td></tr>
+    <tr><td>nosotros/as</td><td>negamos</td><td>negábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>negaron</td><td>negaban</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Predecir (to predict)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>predije</td><td>predecía</td></tr>
+    <tr><td>tú</td><td>predijiste</td><td>predecías</td></tr>
+    <tr><td>él/ella/usted</td><td>predijo</td><td>predecía</td></tr>
+    <tr><td>nosotros/as</td><td>predijimos</td><td>predecíamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>predijeron</td><td>predecían</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Proponer (to propose)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>propuse</td><td>proponía</td></tr>
+    <tr><td>tú</td><td>propusiste</td><td>proponías</td></tr>
+    <tr><td>él/ella/usted</td><td>propuso</td><td>proponía</td></tr>
+    <tr><td>nosotros/as</td><td>propusimos</td><td>proponíamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>propusieron</td><td>proponían</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Requerir (to require)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>requerí</td><td>requería</td></tr>
+    <tr><td>tú</td><td>requeriste</td><td>requerías</td></tr>
+    <tr><td>él/ella/usted</td><td>requirió</td><td>requería</td></tr>
+    <tr><td>nosotros/as</td><td>requerimos</td><td>requeríamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>requirieron</td><td>requerían</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Resolver (to resolve / solve)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>resolví</td><td>resolvía</td></tr>
+    <tr><td>tú</td><td>resolviste</td><td>resolvías</td></tr>
+    <tr><td>él/ella/usted</td><td>resolvió</td><td>resolvía</td></tr>
+    <tr><td>nosotros/as</td><td>resolvimos</td><td>resolvíamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>resolvieron</td><td>resolvían</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Sostener (to maintain / sustain / hold)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>sostuve</td><td>sostenía</td></tr>
+    <tr><td>tú</td><td>sostuviste</td><td>sostenías</td></tr>
+    <tr><td>él/ella/usted</td><td>sostuvo</td><td>sostenía</td></tr>
+    <tr><td>nosotros/as</td><td>sostuvimos</td><td>sosteníamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>sostuvieron</td><td>sostenían</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Trasladar (to transfer / move)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>trasladé</td><td>trasladaba</td></tr>
+    <tr><td>tú</td><td>trasladaste</td><td>trasladabas</td></tr>
+    <tr><td>él/ella/usted</td><td>trasladó</td><td>trasladaba</td></tr>
+    <tr><td>nosotros/as</td><td>trasladamos</td><td>trasladábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>trasladaron</td><td>trasladaban</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Valorar (to value / appreciate)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>valoré</td><td>valoraba</td></tr>
+    <tr><td>tú</td><td>valoraste</td><td>valorabas</td></tr>
+    <tr><td>él/ella/usted</td><td>valoró</td><td>valoraba</td></tr>
+    <tr><td>nosotros/as</td><td>valoramos</td><td>valorábamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>valoraron</td><td>valoraban</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Venir (to come)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Preterite</th><th>Imperfect</th></tr>
+    <tr><td>yo</td><td>vine</td><td>venía</td></tr>
+    <tr><td>tú</td><td>viniste</td><td>venías</td></tr>
+    <tr><td>él/ella/usted</td><td>vino</td><td>venía</td></tr>
+    <tr><td>nosotros/as</td><td>vinimos</td><td>veníamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>vinieron</td><td>venían</td></tr>
+  </table>
+</details>
