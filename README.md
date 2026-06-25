@@ -181,3 +181,54 @@
       </tr>
     </tbody>
   </table>
+
+  <hr>
+
+  <h2>6. Verbs that <em>change meaning</em> in preterite vs. imperfect (C1)</h2>
+  <p>A handful of very common verbs mean something different depending on aspect. This is classic C1 territory and a frequent exam point: the preterite marks a <strong>change of state / a completed reaction</strong>, the imperfect marks an <strong>ongoing background state</strong>.</p>
+  <table>
+    <thead>
+      <tr><th>Verb</th><th>Imperfect (state)</th><th>Preterite (change / event)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>saber</td><td><em>sabía</em> = knew (had the knowledge)</td><td><em>supe</em> = found out, learned</td></tr>
+      <tr><td>conocer</td><td><em>conocía</em> = knew (was acquainted with)</td><td><em>conocí</em> = met (for the first time)</td></tr>
+      <tr><td>querer</td><td><em>quería</em> = wanted</td><td><em>quise</em> = tried (and acted); <em>no quise</em> = refused</td></tr>
+      <tr><td>poder</td><td><em>podía</em> = was able to (had the ability)</td><td><em>pude</em> = managed to (and did); <em>no pude</em> = failed to</td></tr>
+      <tr><td>tener</td><td><em>tenía</em> = had</td><td><em>tuve</em> = got, received</td></tr>
+      <tr><td>haber (hay)</td><td><em>había</em> = there was (setting)</td><td><em>hubo</em> = there occurred / took place</td></tr>
+      <tr><td>costar</td><td><em>costaba</em> = it cost (price as background)</td><td><em>costó</em> = it cost (a completed transaction)</td></tr>
+    </tbody>
+  </table>
+  <p><strong>Examples:</strong></p>
+  <ul>
+    <li><em>Ya <strong>conocía</strong> a Ana, pero <strong>conocí</strong> a su hermano ayer.</em> (I already knew Ana, but I met her brother yesterday.)</li>
+    <li><em><strong>Supe</strong> la verdad cuando leí la carta.</em> (I found out the truth when…)</li>
+    <li><em>No <strong>quiso</strong> ayudarme.</em> (He refused to help — a decision he acted on.)</li>
+    <li><em><strong>Hubo</strong> un accidente</em> (an accident happened) vs <em><strong>Había</strong> mucho tráfico</em> (there was a lot of traffic — scene).</li>
+  </ul>
+
+  <hr>
+
+  <h2>7. Pretérito perfecto <em>simple</em> vs. <em>compuesto</em> (he hecho vs. hice)</h2>
+  <p>Both are past, but they frame the action's relation to <strong>now</strong> differently — and usage is regional, which SIELE expects you to navigate.</p>
+  <table>
+    <thead>
+      <tr><th></th><th>Compuesto (he hecho)</th><th>Simple (hice)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Frame</td><td>Connected to the present / "current" time</td><td>Cut off from the present, finished</td></tr>
+      <tr><td>Typical markers</td><td>hoy, esta semana, este año, ya, todavía no, alguna vez, últimamente</td><td>ayer, anoche, el lunes, en 2019, hace dos años</td></tr>
+      <tr><td>Example</td><td><em>Hoy <strong>he comido</strong> tarde.</em></td><td><em>Ayer <strong>comí</strong> tarde.</em></td></tr>
+    </tbody>
+  </table>
+  <ul>
+    <li><strong>Regional reality:</strong> central/northern Spain favours the compuesto for recent/"today" past; most of <strong>Latin America</strong> (and Galicia/Canarias) uses the simple even for "today": <em>«Hoy comí tarde»</em>. Both are correct — keep your choice consistent with the register/variety you're writing in.</li>
+    <li><strong>Experiential "ever/never":</strong> <em>¿<strong>Has estado</strong> alguna vez en Perú?</em> — compuesto across both varieties.</li>
+  </ul>
+
+  <hr>
+
+  <h2>8. Where the pluperfect fits in narration</h2>
+  <p>For storytelling at C1 you juggle three past layers. The <a href="../Perfect-Tenses/">pluscuamperfecto</a> marks the "past before the past":</p>
+  <blockquote>Cuando <strong>llegué</strong> (preterite: main event), Ana ya <strong>se había ido</strong> (pluperfect: earlier) porque <strong>estaba</strong> cansada (imperfect: background).</blockquote>
